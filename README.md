@@ -1,8 +1,8 @@
----
-runme:
-  id: 01HMEBG1F55H9E2X46S0SK9AGJ
-  version: v3
----
++++
+[runme]
+id = '01HS7BA9N3NY3M9P9GK50V2FT6'
+version = 'v3'
++++
 
 # Hi 👋 Rejekts
 
@@ -16,7 +16,8 @@ echo "Escape Confluence with… 🥁 Markdown!"
 
 # Running through the Demo
 
-Once the steps below are complete, you can move onto [first step](docs/gapless.md) step.
+Once the steps below are complete, you can move onto
+[first step](docs/gapless.md) step.
 
 ## Installing Prerequisites
 
@@ -49,4 +50,5 @@ gcloud auth login
 gcloud auth application-default login
 ```
 
-If you are running this demo locally, please proceed to the [first step](docs/gapless.md).
+If you are running this demo locally, please proceed to the
+[first step](docs/gapless.md).

@@ -1,9 +1,10 @@
----
-cwd: ..
-runme:
-  id: 01HS7AFC5AVWZPG53WXM0CVE7P
-  version: v3
----
++++
+cwd = '..'
+
+[runme]
+id = '01HS7BE0DP1E3DXDNBFY2WGHCN'
+version = 'v3'
++++
 
 ## Never miss a critical beat
 
@@ -13,7 +14,8 @@ runme:
 curl -s "https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg"
 ```
 
-Send traces to any OpenTelemetry compatible collector, like Jaeger, Honeycomb, Lightstep, or Zipkin, etc.
+Send traces to any OpenTelemetry compatible collector, like Jaeger, Honeycomb,
+Lightstep, or Zipkin, etc.
 
 ```sh {"id":"01HS7AKW4EN3DH6BQD8VTHANH0"}
 open http://localhost:16686

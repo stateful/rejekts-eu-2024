@@ -1,9 +1,10 @@
----
-cwd: ..
-runme:
-  id: 01HR5S2KC0Y8MPR9XDAH7N8BDG
-  version: v3
----
++++
+cwd = '..'
+
+[runme]
+id = '01HS7BC1MHFPXAT2VEBVJZMACF'
+version = 'v3'
++++
 
 # Runme is built on Open Source & Open Standards
 

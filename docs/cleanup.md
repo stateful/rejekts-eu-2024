@@ -1,8 +1,10 @@
----
-runme:
-  id: 01HS7B4VBD4BGBCV471Z04DZ1W
-  version: v3
----
++++
+cwd = '..'
+
+[runme]
+id = '01HS7BDWP6MX05328TG8VE9ZK7'
+version = 'v3'
++++
 
 ## That's the demo 👏
 

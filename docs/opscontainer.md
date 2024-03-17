@@ -1,8 +1,10 @@
----
-runme:
-  id: 01HRZBKPJAZ72H44FGVXGV7V3Y
-  version: v3
----
++++
+cwd = '..'
+
+[runme]
+id = '01HS7BE8FDDJEWTWBAMKCG4JF1'
+version = 'v3'
++++
 
 # Leverage dev-/opscontainers
 

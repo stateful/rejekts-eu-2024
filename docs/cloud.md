@@ -1,9 +1,10 @@
----
-cwd: ../
-runme:
-  id: 01HS79P69GAXC26KBBDDPK990K
-  version: v3
----
++++
+cwd = '..'
+
+[runme]
+id = '01HS7BDXKDNX3S5AWX7Q5ZGH9N'
+version = 'v3'
++++
 
 ## Make ☁️ cloud resources come to you
 
