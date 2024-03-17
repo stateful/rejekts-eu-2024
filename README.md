@@ -10,6 +10,8 @@ version = 'v3'
 
 This is an example powered by [Runme](https://runme.dev/).
 
+If you would like to find out more about Project Owl 🦉, she is kind of nocturnal and lives [right here](https://github.com/stateful/runme/blob/main/internal/owl/README.md).
+
 ```sh {"id":"01HS5VGM4KP12A1HQ6PYRGXZXN","name":"escape-confluence"}
 echo "Escape Confluence with… 🥁 Markdown docs!"
 ```
