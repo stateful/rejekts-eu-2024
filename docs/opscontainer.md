@@ -8,7 +8,7 @@ version = 'v3'
 
 # Leverage dev-/opscontainers
 
-- Hardwire system dependencies in a container
+- Lock-in system dependencies in a container
 - Share environments with others
 - Use the same environment on different machines
 - Leverage existing supply-chain security and container know-how
