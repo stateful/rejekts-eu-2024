@@ -17,7 +17,7 @@ echo "Escape Confluence with… 🥁 Markdown!"
 # Running through the Demo
 
 Once the steps below are complete, you can move onto
-[first step](docs/gapless.md) step.
+the [first step](docs/gapless.md).
 
 ## Installing Prerequisites
 
