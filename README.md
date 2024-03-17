@@ -11,7 +11,7 @@ version = 'v3'
 This is an example powered by [Runme](https://runme.dev/).
 
 ```sh {"id":"01HS5VGM4KP12A1HQ6PYRGXZXN","name":"escape-confluence"}
-echo "Escape Confluence with… 🥁 Markdown!"
+echo "Escape Confluence with… 🥁 Markdown docs!"
 ```
 
 # Running through the Demo
