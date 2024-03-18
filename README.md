@@ -19,7 +19,7 @@ def escape_confluence():
     for i in range(3):
         sys.stdout.write("🥁"); sys.stdout.flush()
         time.sleep(1)
-    print(" Mardown docs! Colocate with code 🎉")
+    print("\n\nMardown docs! Colocated with code 🎉")
 escape_confluence()
 ```
 
