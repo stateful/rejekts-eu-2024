@@ -24,3 +24,14 @@ def hello():
     print("I'm running on a MBP Apple M1 via devcontainers as {}".format(hostname))
 hello()
 ```
+
+## Runs everywhere
+
+VS Code platform like Chromium for Chrome, Edge, Brave, etc.
+
+- Web-based from the CLI via `runme open`
+- Gitpod
+- Google Cloud Editor
+- GitHub Codespaces
+- Attach to Host via SSH
+- Goolge IDX
