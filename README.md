@@ -12,8 +12,15 @@ This is an example powered by [Runme](https://runme.dev/).
 
 If you would like to find out more about Project Owl 🦉, she is kind of nocturnal and lives [right here](https://github.com/stateful/runme/blob/main/internal/owl/README.md).
 
-```sh {"id":"01HS5VGM4KP12A1HQ6PYRGXZXN","name":"escape-confluence"}
-echo "Escape Confluence with… 🥁 Markdown docs!"
+```python {"id":"01HS86N20MC53XVFSJWAN6S4F8","name":"escape-confluence"}
+import time, sys
+def escape_confluence():
+    sys.stdout.write("Escape Confluence with… ")
+    for i in range(3):
+        sys.stdout.write("🥁"); sys.stdout.flush()
+        time.sleep(1)
+    print(" Mardown docs! Colocate with code 🎉")
+escape_confluence()
 ```
 
 # Running through the Demo
