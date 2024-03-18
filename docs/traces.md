@@ -14,7 +14,7 @@ version = 'v3'
 curl -s "https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg"
 ```
 
-Send traces to any OpenTelemetry compatible collector, like Jaeger, Honeycomb,
+Send traces to any OpenTelemetry compatible collector, like Jaeger, Datadog, Honeycomb,
 Lightstep, or Zipkin, etc.
 
 ```sh {"id":"01HS7AKW4EN3DH6BQD8VTHANH0"}
