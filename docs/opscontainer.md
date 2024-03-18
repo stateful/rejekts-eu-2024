@@ -35,3 +35,4 @@ VS Code platform like Chromium for Chrome, Edge, Brave, etc.
 - GitHub Codespaces
 - Attach to Host via SSH
 - Goolge IDX
+- more...
