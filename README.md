@@ -6,13 +6,11 @@ version = 'v3'
 
 # Hi 👋 Rejekts
 
-[![](https://badgen.net/badge/Run%20with/Runme/5B3ADF?icon=https://runme.dev/img/logo.svg)](https://runme.dev/api/runme?repository=git%40github.com%3Astateful%2Frejekts-eu-2024.git&fileToOpen=README.md&command=setup)
+[![](https://badgen.net/badge/Run%20with/Runme/5B3ADF?icon=https://runme.dev/img/logo.svg)](https://runme.dev/api/runme?repository=git%40github.com%3Astateful%2Frejekts-eu-2024.git&fileToOpen=README.md&command=demo&cell=0)
 
 This is an example powered by [Runme](https://runme.dev/).
 
-If you would like to find out more about Project Owl 🦉, she is kind of
-nocturnal and lives
-[right here](https://github.com/stateful/runme/blob/main/internal/owl/README.md).
+If you would like to find out more about Project Owl 🦉, she is kind of nocturnal and lives [right here](https://github.com/stateful/runme/blob/main/internal/owl/README.md).
 
 ```python {"id":"01HS86N20MC53XVFSJWAN6S4F8","name":"escape-confluence"}
 import time, sys
@@ -27,8 +25,8 @@ escape_confluence()
 
 # Running through the Demo
 
-Once the steps below are complete, you can move onto the
-[first step](docs/gapless.md).
+Once the steps below are complete, you can move onto
+the [first step](docs/gapless.md).
 
 ## Installing Prerequisites
 
