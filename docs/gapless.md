@@ -32,7 +32,7 @@ export PROJECT_NAME=Enter your project id
 echo "PROJECT_NAME set to $PROJECT_NAME"
 gcloud config set project $PROJECT_NAME
 
-export CLUSTER_ZONE="europe-central2-a"
+export CLUSTER_ZONE="us-central1-c"
 echo "CLUSTER_ZONE set to $CLUSTER_ZONE"
 ```
 
